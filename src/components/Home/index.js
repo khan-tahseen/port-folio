@@ -56,6 +56,9 @@ const Home = () => {
         <Link to="/contact" className="flat-button">
           CONTACT ME
         </Link>
+        <Link to="/about" className="flat-button">
+          ABOUT
+        </Link>
       </div>
       <Loader type='pacman' />
     </div>
