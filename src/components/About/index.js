@@ -16,7 +16,7 @@ const About = () => {
 
   return (
     <div className="container about-page">
-      <div className="text-zone">
+      <div className="text-zone" onSelect='none'>
         <h1>
           <Animatedletters
           letterClass={letterClass}

@@ -1,11 +1,11 @@
 import './index.scss'
-import LogoS from '../../../assets/images/tahseen.png'
+import LogoT from '../../../assets/images/tahseen.png'
 
 const Logo = () => {
 
   return (
     <div className="logo-container">
-      <img className="solid-logo" src={LogoS} alt="T" />
+      <img className="solid-logo" src={LogoT} alt="T" />
       <svg
         width="559pt"
         height="897pt"
